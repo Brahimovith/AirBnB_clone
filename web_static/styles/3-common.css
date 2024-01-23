@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* common CSS */
 
 body {
@@ -6,4 +7,13 @@ body {
   color: #484848;
   font-size: 14px;
   font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+=======
+body {
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+	color: #484848;
+	font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 14px;
+>>>>>>> db7034ea28f49fde63ca13f56ddcfb5a59dfec1c
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * footer CSS */
 
 footer {
@@ -10,4 +11,14 @@ footer {
 	display: flex;
 	justify-content: center;
 	align-items: center
+=======
+footer{
+    Background-color:#00FF00;
+    height:60px;
+    width:100%;
+    position: absolute;
+    bottom:0;
+    text-align:center;
+    line-height:60px
+>>>>>>> db7034ea28f49fde63ca13f56ddcfb5a59dfec1c
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* footer CSS */
 
 footer {
@@ -11,4 +12,16 @@ footer {
 	align-items: center;
   border-top: 1px solid #CCCCCC;
   box-sizing: border-box;
+=======
+footer {
+	background-color: white;
+    height: 60px;
+    width: 100%;
+    border-top: 1px solid #CCCCCC;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+	bottom: 0;
+>>>>>>> db7034ea28f49fde63ca13f56ddcfb5a59dfec1c
 }
